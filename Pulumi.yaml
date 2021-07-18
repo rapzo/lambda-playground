@@ -1,0 +1,3 @@
+name: lambda-containers
+runtime: nodejs
+description: An AWS Lambda function packaged as a Docker container
